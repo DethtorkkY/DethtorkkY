@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Мои навыки:
-<img src=" width="10%">![Git-Logo-2Color](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/84ab24af-2876-44ad-a8cc-f8027d212031)
-<img src=" width="10%">![136443](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/c93ef3d1-ba90-40a8-ad2d-4c6e261b2347)
-<img src=" width="10%">![telegram-bot](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/6b20834a-7a7b-4ad3-a8e6-c22440d05909)
+![Git-Logo-2Color](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/84ab24af-2876-44ad-a8cc-f8027d212031)
+![136443](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/c93ef3d1-ba90-40a8-ad2d-4c6e261b2347)
+![telegram-bot](https://github.com/DethtorkkY/DethtorkkY/assets/138982852/6b20834a-7a7b-4ad3-a8e6-c22440d05909)
 
 
